@@ -1,4 +1,4 @@
-# Erasure Coded Storage System LocalErasureCodeParityStorageSimulator
+# VDATASIM
 
 
 A Python-based distributed storage system implementing two-level erasure coding with an interactive GUI for visualization and management.
@@ -46,7 +46,7 @@ tkinter (usually included with Python)
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/genaro23/erasure-storage-system.git
+git clone https://github.com/genaro23/VDATASIM.git
 cd erasure-storage-system
 
 # Install dependencies
@@ -226,7 +226,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 ### Development Setup
 ```bash
 # Fork and clone
-git clone https://github.com/YOUR_USERNAME/erasure-storage-system.git
+git clone https://github.com/YOUR_USERNAME/VDATASIM.git
 cd erasure-storage-system
 
 # Create feature branch
@@ -311,9 +311,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- 📫 **Issues:** https://github.com/genaro23/LocalErasureCodeParityStorageSimulator
+- 📫 **Issues:** https://github.com/genaro23/VDATASIM
 /issues
-- 💬 **Discussions:** https://github.com/genaro23/LocalErasureCodeParityStorageSimulator
+- 💬 **Discussions:** https://github.com/genaro23/VDATASIM
 /discussions
 - 📧 **Email:** your.email@example.com
 
